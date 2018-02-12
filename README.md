@@ -1,10 +1,10 @@
-topotiles
+Vector tiles BGT BRT
 =========
 
 
 To make a slippy Web map, you need data at all zoom/scale levels. You also need to be able to target the same features at different zoom levels with the same styling, so that there is a consistent view as the user zooms in and out. For the Netherlands, the official geographical data for different scale levels is split between different datasets. The typology of features is not  consistent between these different datasets.
 
-`Topotiles` exists to bring all those features into a single database with a consistent hierarchy of feature types, in order to greatly simplify making maps with Dutch open data. Instead of having to remember what roads are called in different datasets, you can simply refer to 'roads' and the  features from the most appropriate dataset will be targeted at each zoom level. This is accomplished by using vector tiles with opinionated choices about what features to serve at what zoom level. 
+This project exists to bring all those features into a single database with a consistent hierarchy of feature types, in order to greatly simplify making maps with Dutch open data. Instead of having to remember what roads are called in different datasets, you can simply refer to 'roads' and the  features from the most appropriate dataset will be targeted at each zoom level. This is accomplished by using vector tiles with opinionated choices about what features to serve at what zoom level. 
 
 How to use it
 -------------
