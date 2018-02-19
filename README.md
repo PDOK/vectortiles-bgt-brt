@@ -86,7 +86,7 @@ var map = new mapboxgl.Map({
 });
 ```
 
-Have a look at the [simple working example](./examples/mapox_map.html).
+Have a look at the [simple working example](https://github.com/PDOK/vectortiles-bgt-brt/blob/master/examples/mapbox_map.html).
 
 ### Qgis
 
