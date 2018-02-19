@@ -16,18 +16,20 @@ This project exists to bring all those features into a single database with a co
 * [Data structure](#data-structure)
 	* [Attributes](#attributes)
 * [Source Data](#source-data)
+	* [Source Data per zoom level](#source-data-per-zoom-level)
+	* [Source Data per layer](#source-data-per-layer)
 
 
-Bèta
+Beta
 -------------
 
-This is a first design. The Vector Tiles will NOT be updated daily but will be made available in bèta. We will be happy with your feedback.
+This is a first design. The Vector Tiles will not be updated daily but will be made available in beta. We will be happy with your feedback.
 You can add issues here of give feedback and ask questions at the [PDOK forum](https://forum.pdok.nl/c/datasets/vector-tiles-brt-en-bgt).
 
 Demo
 -------------
 
-There is a demo viewer at http://geodata.nationaalgeoregister.nl/beta/topotiles-viewer
+There is a demo viewer at http://geodata.nationaalgeoregister.nl/beta/topotiles-viewer/
 
 <img src="https://www.pdok.nl/sites/default/files/images/vt.png" width="500">
 
@@ -57,11 +59,10 @@ This style is based on the existing BRT Achtergrondkaart tileset.
 Specification and standards
 -------------
 
-The source data comes from the BRT (Basisregistratie Topografie), including TOP1000, TOP500, TOP250, TOP100, TOP50 and TOP10, ranging in scale from 1:1 000 000 to 1:10 000, and the BGT (Basisregistratie Grootschalige Topografie), at a scale of 1:5 000. 
-
-Data is re-projected to `EPSG:4326`. Web Mercator is the projection of reference, and the Google tile scheme is the tile extent convention of reference.
+The source data comes from the BRT (Basisregistratie Topografie), including TOP1000, TOP500, TOP250, TOP100, TOP50 and TOP10, ranging in scale from 1:1 000 000 to 1:10 000, and the BGT (Basisregistratie Grootschalige Topografie), at a scale of 1:5 000. Data is re-projected from `EPSG:28992` to `EPSG:4326`.
 
 Vector tiles are build with [tippecanoe](https://github.com/mapbox/tippecanoe) using the [Mabox Vector Tile specification](https://github.com/mapbox/vector-tile-spec). The tiles are stored in directory structure with filename extension `.pbf`
+Web Mercator is the projection of reference, and the Google tile scheme is the tile extent convention of reference.
 
 How to use?
 -------------
@@ -255,12 +256,10 @@ A lot of attribute alterations are made but no geometric alterations. (except fo
 
 The re-organization of the data on attribute level and distribution across the layers is the most important. Next to this certain data is available in specific zoom levels.
 
-First we will explain the most important choices per zoom level. Then the most important choices per layer are discussed. 
+## Source data per zoom level
 
-All the specific details about the choices made can be found in the [sql files](./sql). 
-
-#### Zoom levels
-
+<!-- Most details about the choices made per zoom level can be found in the [generate geojson](./sql) files or the [generate MVT](./) file.
+ -->
 **Data sources per zoom level**
 
 zoom level | source
@@ -276,10 +275,13 @@ zoom level | source
 Some exceptions:
 
 -  the administrative areas of the Top10 are also used on zoom level 16-17, because the BGT did not contain these polygon areas. 
-- The residential labels are not chosen on dataset per zoom level, but a hierarchical distinction is made on population size and importance. For example, on zoom 0-5 only the label Amsterdam is available. The zoom level 6-7 contains large residential areas and province capitals. At zoom 8-9 the residential areas with population size larger then 100.000 are included etc. See [the SQL file](./sql/create_labels_layer.sql) for the exact details.
+- The residential labels are not chosen on dataset per zoom level, but a hierarchical distinction is made on population size and importance. For example, on zoom 0-5 only the label Amsterdam is available. The zoom level 6-7 contains large residential areas and province capitals. At zoom 8-9 the residential areas with population size larger then 100.000 are included etc. <!-- See [the SQL file](./sql/create_labels_layer.sql) for the exact details. -->
 - At lower zoom levels not all infrastructure data is available (although it exists in the source datasets). The `arterial` and `local` roads are only visible from zoom level 10 and higher. The local roads are rarely used on the lower zoom levels and this decreases the data size of the tiles.
 
 
+## Source data per layer
+<!-- All the specific details about the choices made can be found in the [SQL files](./sql). 
+ -->
 #### admin
 
 `POLYGON`
@@ -309,7 +311,7 @@ geometry type = `POLYGON`
 - top500nl.waterdeel_vlak
 - top1000nl.waterdeel_vlak
 
-**Not available in layer:**
+**Not included in this layer:**
 - bgt.OndersteunendWaterdeel -> in `terrain`
 
 
@@ -325,7 +327,7 @@ geometry type = `LINESTRING`
 - top500nl.waterdeel_lijn
 - top1000nl.waterdeel_lijn
 
-**Not available in layer:**
+**Not included in this layer:**
 - Nothing from BGT
 
 #### infra
@@ -347,7 +349,7 @@ geometry type = `LINESTRING`
 - top1000nl.wegdeel_lijn
 - top1000nl.spoorbaandeel_lijn
 
-**Not available in tile:**
+**Not available in tiles:**
 - parkeerplaats
 - parkeerplaats: carpool
 - parkeerplaats: P+R
@@ -373,7 +375,7 @@ geometry type = `POLYGON`
 - top1000nl.plaats_vlak
 
 
-**Not available in tile:**
+**Not available in tiles:**
 - top10nl.terrein `typelandgebruik = 'bebouwd gebied'`
 
 
@@ -400,9 +402,12 @@ geometry type = `POLYGON`
 - top500nl.terrein_vlak
 - top1000nl.terrein_vlak
 
-**Not available in tile:**
-- top10nl.terrein `typelandgebruik = 'bebouwd gebied'`
+**Not included in this layer:**
 - top50nl.terrein `typelandgebruik = 'bebouwd gebied'`
+- top100nl.terrein `typelandgebruik = 'bebouwd gebied'`
+
+**Not available in tiles:**
+- top10nl.terrein `typelandgebruik = 'bebouwd gebied'`
 
 #### label
 
