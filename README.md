@@ -10,7 +10,7 @@ This project exists to bring all those features into a single database with a co
 * [Beta](#beta)
 * [Demo](#demo)
 * [End-points](#end-points)
-* [Specs](#Specification-and-standards)
+* [Specs](#specification-and-standards)
 * [How to use](#how-to-use)
 * [Styling](#styling)
 * [Data structure](#data-structure)
@@ -70,9 +70,9 @@ How to use?
 The vector tiles can be displayed on a map by different JavaScript mapping libraries. For example:
 
 ### Mapbox-GL.js
-[Mapox-GL.js](https://www.mapbox.com/mapbox-gl-js/api/) is a JavaScript library that uses WebGL to render interactive maps from vector tiles and [Mapbox styles](https://www.mapbox.com/mapbox-gl-js/style-spec). 
+[Mapox-GL.js](https://www.mapbox.com/mapbox-gl-js/api/) is a JavaScript library that uses WebGL to render interactive maps from vector tiles and Mapbox styles.
 
-The `achtergrond.json` meets the [Mapbox style specs](https://www.mapbox.com/mapbox-gl-js/style-spec).
+The `achtergrond.json` meets the [Mapbox GL Style Spec](https://www.mapbox.com/mapbox-gl-js/style-spec).
 
 To set up a map with the PDOK vector tiles and `achtergrond.json` you just need to refer to `style: 'https://geodata.nationaalgeoregister.nl/beta/topotiles-viewer/styles/achtergrond.json'`
 
@@ -86,7 +86,7 @@ var map = new mapboxgl.Map({
 });
 ```
 
-Have a look at the [simple working example](/examples/mapox_map.html).
+Have a look at the [simple working example](./examples/mapox_map.html).
 
 ### Qgis
 
