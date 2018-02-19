@@ -145,7 +145,7 @@ urban | built-up areas, buildings | POLYGON
 infra | roads, railways, ferries | LINE
 label | names of features | POINT
 
-## Attributes
+### Attributes
 
 Each layers contains (as much as possible) the following attributes:
 
@@ -156,10 +156,10 @@ Each layers contains (as much as possible) the following attributes:
 - `name` (not all layers)
 - `original_id`
 
-#### z-index
+### z-index
 The attribute `z-index` is the [relatieve hoogte ligging](http://imgeo.geostandaarden.nl/def/imgeo-object/overbruggingsdeel/inwinningsregel-imgeo/toelichting-relatieve-hoogte). If none was provided it is set to 0. 
 
-#### name
+### name
 
 The objects given name from the source data, if available. If not available, the field is empty. Mostly the source data contains multiple names. Only one name is taken over.
 
@@ -185,10 +185,10 @@ Name priority for infrastructure:
 
 This means the `naamofficieel` is used when available, if there is no `naamofficeel` it takes the `naamfries`. If that is not there it takes the `naamnl`, if all not existing the field stays empty. 
 
-#### Original feature ID
+### Original feature ID
 Each feature has an attribute `original_id` which is a string consisting of an identifier for the source dataset, and the original ID in the source dataset. It is built up as follows: `NL.<SOURCE_DATASET>.<ORIGINAL_ID>`. There is also an attribute `original_source` which contains the name of the original source.
 
-#### Level Of Detail
+### Level Of Detail
 Features within these layers have attributes `lod1` and `lod2` (and sometimes `lod3`) which can be used to select subsets. For example, the `infra` layer contains roads, railways, tram and metro lines, and ferries. To select only roads, you can filter on `lod1 = roads`. To further select a particular type of road, you can use `lod2`, for example, `lod2 = arterial`.
 
 The full list of sub-classifications per layer: 
@@ -282,9 +282,9 @@ Some exceptions:
 ## Source data per layer
 <!-- All the specific details about the choices made can be found in the [SQL files](./sql). 
  -->
-#### admin
+### admin
 
-`POLYGON`
+geometry type = `POLYGON`
 
 **Includes:**
 - top10nl.registratiefgebied
@@ -298,7 +298,7 @@ Some exceptions:
 - territoriale zee
 - enclave
 
-#### water
+### water
 
 geometry type = `POLYGON`
 
@@ -315,7 +315,7 @@ geometry type = `POLYGON`
 - bgt.OndersteunendWaterdeel -> in `terrain`
 
 
-#### water-ways
+### water-ways
 
 geometry type = `LINESTRING`
 
@@ -330,7 +330,7 @@ geometry type = `LINESTRING`
 **Not included in this layer:**
 - Nothing from BGT
 
-#### infra
+### infra
 
 geometry type = `LINESTRING`
 
@@ -354,7 +354,7 @@ geometry type = `LINESTRING`
 - parkeerplaats: carpool
 - parkeerplaats: P+R
 
-#### urban
+### urban
 
 geometry type = `POLYGON`
 
@@ -379,7 +379,7 @@ geometry type = `POLYGON`
 - top10nl.terrein `typelandgebruik = 'bebouwd gebied'`
 
 
-#### terrain
+### terrain
 
 geometry type = `POLYGON`
 
@@ -409,7 +409,7 @@ geometry type = `POLYGON`
 **Not available in tiles:**
 - top10nl.terrein `typelandgebruik = 'bebouwd gebied'`
 
-#### label
+### label
 
 geometry type = `POINT`
 
