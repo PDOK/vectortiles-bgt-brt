@@ -1,0 +1,40 @@
+ <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>PDOK vector tile map with Mapbox-GL.js</title>
+    
+    <!--MapboxGLjs CSS-->
+     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.0/mapbox-gl.css' rel='stylesheet' />
+    
+    <!--Style rules-->
+    <style type="text/css">
+      body, html {
+        height: 90%;
+      }
+      #map-container {
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <!--The div in which the map will be created-->
+    <div id="map-container"></div>
+    
+    <!--Load mapboxgl.js-->
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.0/mapbox-gl.js'></script>
+    
+    <!--Use the achtergrond.json to use the PDOK vector tiles and achtergrond style-->
+    <script>
+    var map = new mapboxgl.Map({
+        container: 'map-container',
+        style: 'https://geodata.nationaalgeoregister.nl/beta/topotiles-viewer/styles/achtergrond.json',
+        zoom: 11,
+        center: [ 4.8, 52.4]
+    });
+
+    // Add zoom and rotation controls to the map.
+    map.addControl(new mapboxgl.NavigationControl(), "top-left");
+    </script>
+  </body>
+</html>
