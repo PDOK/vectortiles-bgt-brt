@@ -1,16 +1,19 @@
- Vector Tiles BRT and BGT via PDOK 
+Vector Tiles: BRT and BGT
 =========
 
-To make a slippy Web map, you need data at all zoom/scale levels. You also need to be able to target the same features at different zoom levels with the same styling, so that there is a consistent view as the user zooms in and out. For the Netherlands, the official geographical data for different scale levels is split between different datasets. The typology of features is not  consistent between these different datasets.
+Introduction
+------------
 
-This project exists to bring all those features into a single database with a consistent hierarchy of feature types, in order to greatly simplify making maps with Dutch open data. Instead of having to remember what roads are called in different datasets, you can simply refer to 'roads' and the  features from the most appropriate dataset will be targeted at each zoom level. This is accomplished by using vector tiles with opinionated choices about what features to serve at what zoom level. 
+This project brings together features from across both BGT and BGT into a single data model. The consistent hierarchy of feature types aims to simplify making interactive maps using Dutch open data. Instead of having to remember what one particular road class is called in the different datasets, you can simply refer to 'roads' and the  features from the most appropriate dataset will be targeted at each zoom level.
 
-#### Contents
+Furthermore, the project aims to reduce the workload on the server-side whilst increasing cartographic design flexibility. This is accomplished using vector tile technology with opinionated choices about what features to serve at what zoom level.
+
+Contents
+--------
 
 * [Beta](#beta)
 * [Demo](#demo)
 * [End-points](#end-points)
-* [Specs](#specification-and-standards)
 * [How to use](#how-to-use)
 * [Styling](#styling)
 * [Data structure](#data-structure)
@@ -23,13 +26,12 @@ This project exists to bring all those features into a single database with a co
 Beta
 -------------
 
-This is a first design. The Vector Tiles will not be updated daily but will be made available in beta. We will be happy with your feedback.
-You can add issues here of give feedback and ask questions at the [PDOK forum](https://forum.pdok.nl/c/datasets/vector-tiles-brt-en-bgt).
+This is a beta release. These vector tiles have been generated once for evaluation purposes. E.g. tiles derived from BGT are not updated daily. Please provide feedback using the GitHub [issue system](https://github.com/PDOK/vectortiles-bgt-brt/issues) or post a message on the [PDOK forum](https://forum.pdok.nl/c/datasets/vector-tiles-brt-en-bgt).
 
 Demo
 -------------
 
-There is a demo viewer at http://geodata.nationaalgeoregister.nl/beta/topotiles-viewer/
+A demo viewer is available at http://geodata.nationaalgeoregister.nl/beta/topotiles-viewer/
 
 <img src="https://www.pdok.nl/sites/default/files/images/vt.png" width="500">
 
@@ -37,7 +39,7 @@ There is a demo viewer at http://geodata.nationaalgeoregister.nl/beta/topotiles-
 End-points
 -------------
 
-* TileJSON endpoint:
+* [TileJSON](https://github.com/mapbox/tilejson-spec) endpoint:
 
 `https://geodata.nationaalgeoregister.nl/beta/topotiles-viewer/styles/tilejson.json`
 
@@ -45,32 +47,21 @@ End-points
 
 `http://geodata.nationaalgeoregister.nl/beta/topotiles/{z}/{x}/{y}.pbf`
 
-* StyleJSON for BRT Achtergrondkaart: 
+* [StyleJSON](https://www.mapbox.com/mapbox-gl-js/style-spec/) for the BRT-Achtergrondkaart default style: 
 
 `https://geodata.nationaalgeoregister.nl/beta/topotiles-viewer/styles/achtergrond.json`
 
-This style is based on the existing BRT Achtergrondkaart tileset.
-
-* Meta-data endpoint: 
+* Metadata endpoint: 
 
 `http://geodata.nationaalgeoregister.nl/beta/topotiles/metadata.json`
-
-
-Specification and standards
--------------
-
-The source data comes from the BRT (Basisregistratie Topografie), including TOP1000, TOP500, TOP250, TOP100, TOP50 and TOP10, ranging in scale from 1:1 000 000 to 1:10 000, and the BGT (Basisregistratie Grootschalige Topografie), at a scale of 1:5 000. Data is re-projected from `EPSG:28992` to `EPSG:4326`.
-
-Vector tiles are build with [tippecanoe](https://github.com/mapbox/tippecanoe) using the [Mabox Vector Tile specification](https://github.com/mapbox/vector-tile-spec). The tiles are stored in directory structure with filename extension `.pbf`
-Web Mercator is the projection of reference, and the Google tile scheme is the tile extent convention of reference.
 
 How to use?
 -------------
 
-The vector tiles can be displayed on a map by different JavaScript mapping libraries. For example:
+YOu can render vector tiles using various JavaScript libraries or desktop GIS. For example:
 
 ### Mapbox-GL.js
-[Mapox-GL.js](https://www.mapbox.com/mapbox-gl-js/api/) is a JavaScript library that uses WebGL to render interactive maps from vector tiles and Mapbox styles.
+[Mapox-GL.js](https://www.mapbox.com/mapbox-gl-js/api/) is a JavaScript library that uses WebGL to render vector tiles.
 
 The `achtergrond.json` meets the [Mapbox GL Style Spec](https://www.mapbox.com/mapbox-gl-js/style-spec).
 
@@ -86,15 +77,15 @@ var map = new mapboxgl.Map({
 });
 ```
 
-Have a look at the [simple working example](https://github.com/PDOK/vectortiles-bgt-brt/blob/master/examples/mapbox_map.html).
+Have a look at this [simple working example](https://github.com/PDOK/vectortiles-bgt-brt/blob/master/examples/mapbox_map.html).
 
-### Qgis
+### QGIS 2.18
 
-Also Qgis supports vector tiles. To view the vector tiles in QGIS you can install the [Vector-Tiles-Reader-QGIS-Plugin](https://github.com/geometalab/Vector-Tiles-Reader-QGIS-Plugin) from Martin Boos.
+Also QGIS 2.18 supports vector tiles. To view the vector tiles in QGIS you can install the [Vector-Tiles-Reader-QGIS-Plugin](https://github.com/geometalab/Vector-Tiles-Reader-QGIS-Plugin) by Martin Boos.
 
-0. Before adding the Vector Tiles, you must focus your map on the Netherlands. Otherwise there will be no tile requests. 
+0. Before adding the Vector Tiles, you must centre your map view on the Netherlands. Otherwise there will be no tile requests. 
 1. `Add Vector Tile Layer`
-2. Create new connection, using the `tilejson.json` and `achtergrond.json` endpoints:
+2. Create a new connection, using the `tilejson.json` and `achtergrond.json` endpoints:
 
 <img src="./img/Add_VT_Layer_QGIS.png" width="600">
 
@@ -107,21 +98,21 @@ Styling
 ----------------------
 There are already some styles available for you:
 
-* Background map, based on BRT achtergrondkaart: https://geodata.nationaalgeoregister.nl/beta/topotiles-viewer/styles/achtergrond.json
-* Showing all available data in outlines: https://geodata.nationaalgeoregister.nl/beta/topotiles-viewer/styles/data.json
-* Funny pink one: https://geodata.nationaalgeoregister.nl/beta/topotiles-viewer/styles/purple.json
-* A minimalistic background map: https://geodata.nationaalgeoregister.nl/beta/topotiles-viewer/styles/roads.json
+* BRT-achtergrondkaart default: https://geodata.nationaalgeoregister.nl/beta/topotiles-viewer/styles/achtergrond.json
+* Outlines: https://geodata.nationaalgeoregister.nl/beta/topotiles-viewer/styles/data.json
+* Funny pink: https://geodata.nationaalgeoregister.nl/beta/topotiles-viewer/styles/purple.json
+* Minimalistic: https://geodata.nationaalgeoregister.nl/beta/topotiles-viewer/styles/roads.json
 
-Feel free to use, copy and edit them. These styles are written in a JSON format called the [Mapbox GL Style Spec](https://www.mapbox.com/mapbox-gl-js/style-spec).
+Feel free to use, copy and edit them. These styles conform to the [Mapbox GL Style Spec](https://www.mapbox.com/mapbox-gl-js/style-spec).
 
 ### Maputnik
 
-You can use a online editor like [Maputnik](https://maputnik.github.io/) to create a style or write it yourself in `json` format. [Maputnik](https://maputnik.github.io/) is a free visual style editor for maps targeted at developers and designers. 
+Use an online editor like [Maputnik](https://maputnik.github.io/) to create a style or write one yourself in `json` format. [Maputnik](https://maputnik.github.io/) is a free visual style editor for maps targeted at developers and designers. 
 
 Got to https://maputnik.github.io/editor/
 
-1. Click on `Open`
-2. Load from Url
+1. Click `Open`
+2. Load from URL
 
 <img src="./img/Open_style_Maputnik.png" width="500">
 
@@ -133,7 +124,7 @@ Data structure
 
 In order to create a detailed style it is important to know which data is available in the tiles.
 
-There are 7 named layers:
+There are 7 layers:
 
 layer | description | feature type
 ----- | ----------- | ------------
@@ -150,18 +141,19 @@ label | names of features | POINT
 Each layers contains (as much as possible) the following attributes:
 
 - `lod1`
+- `z_index`
+- `original_id`
 - `lod2` (not all layers)
 - `lod3` (not all layers)
-- `z_index`
 - `name` (not all layers)
-- `original_id`
 
 ### z-index
+
 The attribute `z-index` is the [relatieve hoogte ligging](http://imgeo.geostandaarden.nl/def/imgeo-object/overbruggingsdeel/inwinningsregel-imgeo/toelichting-relatieve-hoogte). If none was provided it is set to 0. 
 
 ### name
 
-The objects given name from the source data, if available. If not available, the field is empty. Mostly the source data contains multiple names. Only one name is taken over.
+The objects given name from the source data, if available. If not available, the field is empty. Frequently, the source data contains multiple names. Only one name is included in the vector tiles.
 
 Name priority for urban areas:
 
@@ -185,10 +177,12 @@ Name priority for infrastructure:
 
 This means the `naamofficieel` is used when available, if there is no `naamofficeel` it takes the `naamfries`. If that is not there it takes the `naamnl`, if all not existing the field stays empty. 
 
-### Original feature ID
-Each feature has an attribute `original_id` which is a string consisting of an identifier for the source dataset, and the original ID in the source dataset. It is built up as follows: `NL.<SOURCE_DATASET>.<ORIGINAL_ID>`. There is also an attribute `original_source` which contains the name of the original source.
+### original_id
 
-### Level Of Detail
+Each feature has an attribute `original_id` which is a string consisting of an identifier for the source dataset and the original ID in the source dataset. It is built up as follows: `NL.<SOURCE_DATASET>.<ORIGINAL_ID>`. There is also an attribute `original_source` which contains the name of the original source.
+
+### Level Of Detail (lod)
+
 Features within these layers have attributes `lod1` and `lod2` (and sometimes `lod3`) which can be used to select subsets. For example, the `infra` layer contains roads, railways, tram and metro lines, and ferries. To select only roads, you can filter on `lod1 = roads`. To further select a particular type of road, you can use `lod2`, for example, `lod2 = arterial`.
 
 The full list of sub-classifications per layer: 
@@ -250,16 +244,10 @@ The full list of sub-classifications per layer:
 
 Source Data
 ------------
-The source datasets are the BRT (Basisregistratie Topografie), including TOP1000, TOP500, TOP250, TOP100, TOP50 and TOP10, ranging in scale from 1:1 000 000 to 1:10 000, and the BGT (Basisregistratie Grootschalige Topografie), at a scale of 1:5 000.
-
-A lot of attribute alterations are made but no geometric alterations. (except for the re-projection) So objects from the source dataset are not merged but taken directly. By doing this, the `original_id` of the objects can be guaranteed and a link to the original datasets can always be made. 
-
-The re-organization of the data on attribute level and distribution across the layers is the most important. Next to this certain data is available in specific zoom levels.
+The data has been derived from the authentic registrations the [Basisregistratie Topografie](https://www.kadaster.nl/brt) (BRT) and the [Basisregistratie Grootschalige Topografie](https://www.kadaster.nl/bgt) (BGT). A lot of modification have been made to the attribute information. The geometries have been kept as-is. Multi-geometries have been changed into single geometries since the vector tile spec does not supprt multi-geometries. Furthermore, the data has been reprojected from Amersfoort New to Web Mercator projection.
 
 ## Source data per zoom level
 
-<!-- Most details about the choices made per zoom level can be found in the [generate geojson](./sql) files or the [generate MVT](./) file.
- -->
 **Data sources per zoom level**
 
 zoom level | source
@@ -274,14 +262,12 @@ zoom level | source
 
 Some exceptions:
 
--  the administrative areas of the Top10 are also used on zoom level 16-17, because the BGT did not contain these polygon areas. 
-- The residential labels are not chosen on dataset per zoom level, but a hierarchical distinction is made on population size and importance. For example, on zoom 0-5 only the label Amsterdam is available. The zoom level 6-7 contains large residential areas and province capitals. At zoom 8-9 the residential areas with population size larger then 100.000 are included etc. <!-- See [the SQL file](./sql/create_labels_layer.sql) for the exact details. -->
+- The administrative areas of the TOP10NL are also used on zoom level 16-17, because the BGT did not contain these polygon areas. 
+- The residential labels are not chosen on dataset per zoom level, but a hierarchical distinction is made on population size and importance. For example, on zoom 0-5 only the label Amsterdam is available. The zoom level 6-7 contains large residential areas and province capitals. At zoom 8-9 the residential areas with population size larger then 100.000 are included etc.
 - At lower zoom levels not all infrastructure data is available (although it exists in the source datasets). The `arterial` and `local` roads are only visible from zoom level 10 and higher. The local roads are rarely used on the lower zoom levels and this decreases the data size of the tiles.
 
-
 ## Source data per layer
-<!-- All the specific details about the choices made can be found in the [SQL files](./sql). 
- -->
+
 ### admin
 
 geometry type = `POLYGON`
