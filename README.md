@@ -8,6 +8,8 @@ This project brings together features from across both BGT and BGT into a single
 
 Furthermore, the project aims to reduce the workload on the server-side whilst increasing cartographic design flexibility. This is accomplished using vector tile technology with opinionated choices about what features to serve at what zoom level.
 
+The vector tiles are build with [tippecanoe](https://github.com/mapbox/tippecanoe) conform the [Mabox Vector Tile specification](https://github.com/mapbox/vector-tile-spec). Web Mercator is the projection of reference, and the Google tile scheme is the tile extent convention of reference.
+
 Contents
 --------
 
@@ -181,7 +183,7 @@ This means the `naamofficieel` is used when available, if there is no `naamoffic
 
 Each feature has an attribute `original_id` which is a string consisting of an identifier for the source dataset and the original ID in the source dataset. It is built up as follows: `NL.<SOURCE_DATASET>.<ORIGINAL_ID>`. There is also an attribute `original_source` which contains the name of the original source.
 
-### Level Of Detail (lod)
+### lod1, lod2 and lod3 (Level Of Detail)
 
 Features within these layers have attributes `lod1` and `lod2` (and sometimes `lod3`) which can be used to select subsets. For example, the `infra` layer contains roads, railways, tram and metro lines, and ferries. To select only roads, you can filter on `lod1 = roads`. To further select a particular type of road, you can use `lod2`, for example, `lod2 = arterial`.
 
