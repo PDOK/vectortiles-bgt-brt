@@ -270,6 +270,8 @@ Some exceptions:
 
 ## Source data per layer
 
+All the specific details about the choices made can be found in the [SQL files](https://github.com/PDOK/vectortiles-bgt-brt/blob/master/sql/)
+
 ### admin
 
 geometry type = `POLYGON`
