@@ -1,0 +1,2969 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="shcema.svg"
+   inkscape:version="0.92.2 (unknown)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-1363.2843"
+     inkscape:cy="83.58553"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="38.400691,331.12741"
+       orientation="1,0"
+       id="guide2131"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="197.63869,338.49794"
+       orientation="1,0"
+       id="guide2133"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="173.68006,313.34226"
+       orientation="0,1"
+       id="guide2617"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="117.05895,271.51022"
+       orientation="1,0"
+       id="guide2760"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="77.863094,224.51786"
+       orientation="0,1"
+       id="guide2804"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-456.97322,23.434524"
+       orientation="0,1"
+       id="guide3056"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2231">
+      <g
+         transform="translate(3.7417734,-80.180858)"
+         id="g1614">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#b50000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25052553;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect943-8"
+           width="27.105616"
+           height="12.284227"
+           x="0.020800833"
+           y="5.4210119"
+           ry="1.3229165"
+           rx="1.3229165" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="6.0664973"
+           y="13.030682"
+           id="text992-7"><tspan
+             sodipodi:role="line"
+             id="tspan990-4"
+             x="6.0664973"
+             y="13.030682"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">layer</tspan></text>
+      </g>
+      <g
+         transform="translate(3.7417734,-91.266305)"
+         id="g1619">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#364e59;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.46793169;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect943-8-9"
+           width="27.105616"
+           height="42.855717"
+           x="-0.22724605"
+           y="32.068333"
+           ry="1.3229165"
+           rx="1.3229165" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="7.3459783"
+           y="40.132381"
+           id="text992-7-9"><tspan
+             sodipodi:role="line"
+             id="tspan990-4-5"
+             x="7.3459783"
+             y="40.132381"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">lod1</tspan></text>
+      </g>
+      <g
+         transform="translate(-5.7811374,-255.94904)"
+         id="g1694">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#364e59;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.19406235;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect943-8-9-3"
+           width="27.105616"
+           height="7.3709998"
+           x="9.2956648"
+           y="241.56322"
+           ry="1.3229165"
+           rx="1.3229165" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="16.860422"
+           y="247.17065"
+           id="text992-7-9-6"><tspan
+             sodipodi:role="line"
+             id="tspan990-4-5-1"
+             x="16.860422"
+             y="247.17065"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">lod2</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="162.90886"
+       y="70.775223"
+       id="text992-2-9-0-9-8-2"><tspan
+         sodipodi:role="line"
+         id="tspan990-8-9-6-0-01-7"
+         x="162.90886"
+         y="74.723618"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332" /></text>
+    <g
+       id="g2161"
+       transform="translate(5.2916669)">
+      <rect
+         ry="1.3229165"
+         y="-74.75985"
+         x="154.10309"
+         height="12.284227"
+         width="38.243999"
+         id="rect943-62"
+         style="opacity:1;vector-effect:none;fill:#005c94;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.29758018;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         rx="1.3229165" />
+      <text
+         id="text992-0"
+         y="-66.690155"
+         x="165.6954"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="-66.690155"
+           x="165.6954"
+           id="tspan990-6"
+           sodipodi:role="line">label</tspan></text>
+      <g
+         transform="translate(-2.6082202,-85.472525)"
+         id="g1664">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect943-9-49-0-3"
+           width="38.24403"
+           height="7.3705368"
+           x="156.71121"
+           y="26.274553"
+           ry="1.3229165"
+           rx="1.3229165" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="158.28395"
+           y="31.073189"
+           id="text992-2-9-0-9"><tspan
+             sodipodi:role="line"
+             id="tspan990-8-9-6-0"
+             x="158.28395"
+             y="31.073189"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">building_number</tspan></text>
+      </g>
+      <g
+         transform="translate(-2.6082202,-83.993038)"
+         id="g1669">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect943-9-49-0-3-8"
+           width="38.24403"
+           height="7.3705368"
+           x="156.71121"
+           y="33.645092"
+           ry="1.3229165"
+           rx="1.3229165" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="160.66731"
+           y="38.437378"
+           id="text992-2-9-0-9-3"><tspan
+             sodipodi:role="line"
+             id="tspan990-8-9-6-0-8"
+             x="160.66731"
+             y="38.437378"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">natural_areas</tspan></text>
+      </g>
+      <g
+         transform="translate(-2.6082202,-86.610995)"
+         id="g1674">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect943-9-49-0-3-7"
+           width="38.24403"
+           height="7.3705368"
+           x="156.71121"
+           y="45.113052"
+           ry="1.3229165"
+           rx="1.3229165" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="170.13939"
+           y="50.06197"
+           id="text992-2-9-0-9-31"><tspan
+             sodipodi:role="line"
+             id="tspan990-8-9-6-0-0"
+             x="170.13939"
+             y="50.06197"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">water</tspan></text>
+      </g>
+      <g
+         transform="translate(-2.6082202,-87.589192)"
+         id="g1679">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect943-9-49-0-3-0"
+           width="38.24403"
+           height="7.3705368"
+           x="156.71121"
+           y="55.002026"
+           ry="1.3229165"
+           rx="1.3229165" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="164.1958"
+           y="60.126629"
+           id="text992-2-9-0-9-5"><tspan
+             sodipodi:role="line"
+             id="tspan990-8-9-6-0-03"
+             x="164.1958"
+             y="60.126629"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">functional</tspan></text>
+      </g>
+      <g
+         transform="translate(-2.6082202,-88.118359)"
+         id="g1684">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect943-9-49-0-3-1"
+           width="38.24403"
+           height="7.3705368"
+           x="156.71121"
+           y="64.623734"
+           ry="1.3229165"
+           rx="1.3229165" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="162.90886"
+           y="69.754684"
+           id="text992-2-9-0-9-8"><tspan
+             sodipodi:role="line"
+             id="tspan990-8-9-6-0-01"
+             x="162.90886"
+             y="69.754684"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">residential</tspan></text>
+      </g>
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="-14.536587"
+         x="154.10307"
+         height="7.3705368"
+         width="38.24403"
+         id="rect943-9-49-0-3-1-4"
+         style="opacity:1;vector-effect:none;fill:#bdcdd4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="160.2986"
+         y="-9.8670683"
+         id="text992-2-9-0-9-8-28"><tspan
+           sodipodi:role="line"
+           id="tspan990-8-9-6-0-01-6"
+           x="160.2986"
+           y="-9.8670683"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic';fill:#364e59;stroke-width:0.26458332">Source Type</tspan></text>
+    </g>
+    <g
+       id="g2217"
+       transform="translate(5.9924152)">
+      <g
+         transform="translate(-5.1296194,-80.180858)"
+         id="g1609">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#005c94;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.29758018;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect943"
+           width="38.243999"
+           height="12.284227"
+           x="37.53791"
+           y="5.4210119"
+           ry="1.3229165"
+           rx="1.3229165" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="49.181023"
+           y="13.490704"
+           id="text992"><tspan
+             sodipodi:role="line"
+             id="tspan990"
+             x="49.181023"
+             y="13.490704"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">admin</tspan></text>
+      </g>
+      <g
+         transform="translate(0.43957336,-88.431485)"
+         id="g1624">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect943-9"
+           width="38.24403"
+           height="7.3705368"
+           x="31.968702"
+           y="29.233513"
+           ry="1.3229165"
+           rx="1.3229165" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="42.950016"
+           y="33.850113"
+           id="text992-2"><tspan
+             sodipodi:role="line"
+             id="tspan990-8"
+             x="42.950016"
+             y="33.850113"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">country</tspan></text>
+      </g>
+      <g
+         transform="translate(0.43957136,-86.951973)"
+         id="g1629">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect943-9-0"
+           width="38.24403"
+           height="7.3705368"
+           x="31.968704"
+           y="36.604027"
+           ry="1.3229165"
+           rx="1.3229165" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="41.74987"
+           y="41.387844"
+           id="text992-2-51"><tspan
+             sodipodi:role="line"
+             id="tspan990-8-1"
+             x="41.74987"
+             y="41.387844"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">province</tspan></text>
+      </g>
+      <g
+         transform="translate(0.43957336,-85.472525)"
+         id="g1634">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect943-9-03"
+           width="38.24403"
+           height="7.3705368"
+           x="31.968702"
+           y="43.974583"
+           ry="1.3229165"
+           rx="1.3229165" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="37.108017"
+           y="48.760517"
+           id="text992-2-0"><tspan
+             sodipodi:role="line"
+             id="tspan990-8-0"
+             x="37.108017"
+             y="48.760517"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">municipality</tspan></text>
+      </g>
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="-14.536587"
+         x="32.408268"
+         height="7.3705368"
+         width="38.24403"
+         id="rect943-9-49-0-3-1-4-5"
+         style="opacity:1;vector-effect:none;fill:#bdcdd4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="49.278149"
+         y="-9.5411015"
+         id="text992-2-9-0-9-8-28-1"><tspan
+           sodipodi:role="line"
+           id="tspan990-8-9-6-0-01-6-2"
+           x="49.278149"
+           y="-9.5411015"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic';fill:#364e59;stroke-width:0.26458332">NA</tspan></text>
+    </g>
+    <g
+       id="g2196"
+       transform="translate(5.7588539)">
+      <g
+         transform="translate(-5.6532674,-80.180858)"
+         id="g1604">
+        <rect
+           rx="1.3229165"
+           style="opacity:1;vector-effect:none;fill:#005c94;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.29758018;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect943-3"
+           width="38.243999"
+           height="12.284227"
+           x="78.626457"
+           y="5.4210119"
+           ry="1.3229165" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="90.311905"
+           y="13.247993"
+           id="text992-6"><tspan
+             sodipodi:role="line"
+             id="tspan990-0"
+             x="90.311905"
+             y="13.247993"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">water</tspan></text>
+      </g>
+      <g
+         transform="translate(-0.08407641,-85.596663)"
+         id="g1639">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect943-9-4"
+           width="38.24403"
+           height="7.3705368"
+           x="73.057251"
+           y="26.398691"
+           ry="1.3229165"
+           rx="1.3229165" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="77.07473"
+           y="31.201559"
+           id="text992-2-54"><tspan
+             sodipodi:role="line"
+             id="tspan990-8-2"
+             x="77.07473"
+             y="31.201559"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">water_surface</tspan></text>
+      </g>
+      <g
+         transform="translate(-0.08407641,-83.361217)"
+         id="g1644">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect943-9-49"
+           width="38.24403"
+           height="7.3705368"
+           x="73.057251"
+           y="33.013271"
+           ry="1.3229165"
+           rx="1.3229165" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="78.249481"
+           y="37.636223"
+           id="text992-2-9"><tspan
+             sodipodi:role="line"
+             id="tspan990-8-9"
+             x="78.249481"
+             y="37.636223"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">water_course</tspan></text>
+      </g>
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="-14.536587"
+         x="72.973167"
+         height="7.3705368"
+         width="38.24403"
+         id="rect943-9-49-0-3-1-4-7"
+         style="opacity:1;vector-effect:none;fill:#bdcdd4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="89.843048"
+         y="-9.5411015"
+         id="text992-2-9-0-9-8-28-1-6"><tspan
+           sodipodi:role="line"
+           id="tspan990-8-9-6-0-01-6-2-9"
+           x="89.843048"
+           y="-9.5411015"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic';fill:#364e59;stroke-width:0.26458332">NA</tspan></text>
+    </g>
+    <g
+       id="g2179"
+       transform="translate(5.5252602)">
+      <g
+         transform="translate(-6.1562567,-80.180858)"
+         id="g1599">
+        <rect
+           rx="1.3229165"
+           style="opacity:1;vector-effect:none;fill:#005c94;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.29758018;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect943-6"
+           width="38.243999"
+           height="12.284227"
+           x="119.69436"
+           y="5.4210119"
+           ry="1.3229165" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="138.88409"
+           y="13.47377"
+           id="text992-1"><tspan
+             sodipodi:role="line"
+             x="138.99919"
+             y="13.47377"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:center;letter-spacing:0.23018751px;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
+             id="tspan1052">water-line</tspan></text>
+      </g>
+      <g
+         transform="translate(-0.58706571,-84.651722)"
+         id="g1649">
+        <g
+           id="g1659">
+          <rect
+             rx="1.3229165"
+             ry="1.3229165"
+             y="25.453751"
+             x="114.12515"
+             height="7.3705368"
+             width="38.24403"
+             id="rect943-9-4-0"
+             style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+          <text
+             id="text992-2-54-1"
+             y="30.256618"
+             x="118.14263"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+               y="30.256618"
+               x="118.14263"
+               id="tspan990-8-2-2"
+               sodipodi:role="line">water_surface</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="translate(-0.58706571,-83.172233)"
+         id="g1654">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect943-9-49-0"
+           width="38.24403"
+           height="7.3705368"
+           x="114.12515"
+           y="32.824287"
+           ry="1.3229165"
+           rx="1.3229165" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="119.31738"
+           y="37.447239"
+           id="text992-2-9-0"><tspan
+             sodipodi:role="line"
+             id="tspan990-8-9-6"
+             x="119.31738"
+             y="37.447239"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">water_course</tspan></text>
+      </g>
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="-14.536587"
+         x="113.53812"
+         height="7.3705368"
+         width="38.24403"
+         id="rect943-9-49-0-3-1-4-52"
+         style="opacity:1;vector-effect:none;fill:#bdcdd4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="130.40807"
+         y="-9.5411015"
+         id="text992-2-9-0-9-8-28-1-4"><tspan
+           sodipodi:role="line"
+           id="tspan990-8-9-6-0-01-6-2-8"
+           x="130.40807"
+           y="-9.5411015"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic';fill:#364e59;stroke-width:0.26458332">NA</tspan></text>
+    </g>
+    <g
+       id="g2263"
+       transform="translate(-1.0868423e-6,4.0443487)">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="5.8835669"
+         x="38.400692"
+         height="12.284227"
+         width="78.658264"
+         id="rect943-82"
+         style="opacity:1;vector-effect:none;fill:#005c94;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.42677063;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-78"
+         y="13.953259"
+         x="70.208603"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="13.953259"
+           x="70.208603"
+           id="tspan990-67"
+           sodipodi:role="line">urban</tspan></text>
+    </g>
+    <g
+       id="g1614-5"
+       transform="translate(3.6177489,4.5069037)">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="5.4210119"
+         x="0.020800833"
+         height="12.284227"
+         width="27.105616"
+         id="rect943-8-7"
+         style="opacity:1;vector-effect:none;fill:#b50000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25052553;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-7-4"
+         y="13.030682"
+         x="6.0664973"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="13.030682"
+           x="6.0664973"
+           id="tspan990-4-3"
+           sodipodi:role="line">layer</tspan></text>
+    </g>
+    <g
+       id="g1624-9"
+       transform="translate(6.4319886,-3.7437227)">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="29.233513"
+         x="31.968702"
+         height="7.3705368"
+         width="38.243999"
+         id="rect943-9-44"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-06"
+         y="34.032146"
+         x="40.625904"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="34.032146"
+           x="40.625904"
+           id="tspan990-8-02"
+           sodipodi:role="line">buildings</tspan></text>
+    </g>
+    <g
+       id="g1619-2"
+       transform="translate(3.8657957,-9.3753324)">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="34.864891"
+         x="-0.22724605"
+         height="7.3709998"
+         width="27.105616"
+         id="rect943-8-9-8"
+         style="opacity:1;vector-effect:none;fill:#364e59;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.19406235;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-7-9-4"
+         y="40.132381"
+         x="7.3459783"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="40.132381"
+           x="7.3459783"
+           id="tspan990-4-5-3"
+           sodipodi:role="line">lod1</tspan></text>
+    </g>
+    <g
+       id="g1694-1"
+       transform="translate(-6.1387221,-200.57078)">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="236.64999"
+         x="9.2956648"
+         height="32.698811"
+         width="27.105616"
+         id="rect943-8-9-3-1"
+         style="opacity:1;vector-effect:none;fill:#364e59;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.40873709;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-7-9-6-1"
+         y="244.71404"
+         x="16.860422"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="244.71404"
+           x="16.860422"
+           id="tspan990-4-5-1-9"
+           sodipodi:role="line">lod2</tspan></text>
+    </g>
+    <g
+       id="g2281"
+       transform="translate(13.651371)">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="25.48979"
+         x="65.163574"
+         height="7.3705368"
+         width="38.243999"
+         id="rect943-9-44-8"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-06-0"
+         y="30.294775"
+         x="72.654495"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="30.294775"
+           x="72.654495"
+           id="tspan990-8-02-1"
+           sodipodi:role="line">urban_area</tspan></text>
+    </g>
+    <g
+       id="g2273"
+       transform="translate(-26.498792,4.0443487)">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="5.8835669"
+         x="145.72798"
+         height="12.284227"
+         width="78.4095"
+         id="rect943-82-2"
+         style="opacity:1;vector-effect:none;fill:#005c94;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.42609522;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-0-9"
+         y="13.925036"
+         x="174.42137"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="13.925036"
+           x="174.42137"
+           id="tspan990-6-6"
+           sodipodi:role="line">terrain</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#005c94;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60721946;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect943-82-5"
+       width="159.23799"
+       height="12.284227"
+       x="38.400692"
+       y="72.48214"
+       ry="1.3229165"
+       rx="1.3229165" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="110.56338"
+       y="80.549011"
+       id="text992-6-9"><tspan
+         sodipodi:role="line"
+         id="tspan990-0-4"
+         x="110.56338"
+         y="80.549011"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">infra</tspan></text>
+    <g
+       transform="translate(6.43199,58.381713)"
+       id="g1624-9-3">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect943-9-44-78"
+         width="38.243999"
+         height="7.3705368"
+         x="31.968702"
+         y="29.233513"
+         ry="1.3229165"
+         rx="1.3229165" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="42.854752"
+         y="34.019447"
+         id="text992-2-06-09"><tspan
+           sodipodi:role="line"
+           id="tspan990-8-02-52"
+           x="42.854752"
+           y="34.019447"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">railway</tspan></text>
+    </g>
+    <g
+       transform="translate(3.865797,52.750097)"
+       id="g1619-2-1">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#364e59;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.19406235;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect943-8-9-8-3"
+         width="27.105616"
+         height="7.3709998"
+         x="-0.22724605"
+         y="34.864891"
+         ry="1.3229165"
+         rx="1.3229165" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="7.3459783"
+         y="40.132381"
+         id="text992-7-9-4-2"><tspan
+           sodipodi:role="line"
+           id="tspan990-4-5-3-7"
+           x="7.3459783"
+           y="40.132381"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">lod1</tspan></text>
+    </g>
+    <g
+       transform="translate(-6.138721,-138.44536)"
+       id="g1694-1-3">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#364e59;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35278565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect943-8-9-3-1-3"
+         width="27.105616"
+         height="24.359346"
+         x="9.2956648"
+         y="236.64999"
+         ry="1.3229165"
+         rx="1.3229165" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="16.860422"
+         y="244.71404"
+         id="text992-7-9-6-1-2"><tspan
+           sodipodi:role="line"
+           id="tspan990-4-5-1-9-3"
+           x="16.860422"
+           y="244.71404"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">lod2</tspan></text>
+    </g>
+    <g
+       transform="translate(13.651372,62.125435)"
+       id="g2281-8">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect943-9-44-8-6"
+         width="38.243999"
+         height="7.3705368"
+         x="65.163574"
+         y="25.48979"
+         ry="1.3229165"
+         rx="1.3229165" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="78.511307"
+         y="30.286308"
+         id="text992-2-06-0-1"><tspan
+           sodipodi:role="line"
+           id="tspan990-8-02-1-6"
+           x="78.511307"
+           y="30.286308"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">ferry</tspan></text>
+    </g>
+    <g
+       transform="translate(87.26049,58.381713)"
+       id="g1624-9-0-0">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect943-9-44-7-9"
+         width="38.243999"
+         height="7.3705368"
+         x="31.968702"
+         y="29.233513"
+         ry="1.3229165"
+         rx="1.3229165" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="45.267754"
+         y="34.360229"
+         id="text992-2-06-1-19"><tspan
+           sodipodi:role="line"
+           id="tspan990-8-02-6-15"
+           x="45.267754"
+           y="34.360229"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">roads</tspan></text>
+    </g>
+    <rect
+       rx="1.3229165"
+       ry="1.3229165"
+       y="87.615227"
+       x="159.64325"
+       height="7.3705368"
+       width="38.244381"
+       id="rect943-9-44-8-9-4"
+       style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050579;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text992-2-06-0-5-9"
+       y="92.413864"
+       x="171.81642"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+         y="92.413864"
+         x="171.81642"
+         id="tspan990-8-02-1-3-68"
+         sodipodi:role="line">flight</tspan></text>
+    <g
+       id="g4935"
+       transform="translate(6.8664552e-6)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="180.19524"
+         x="-474.50912"
+         height="12.284227"
+         width="27.105616"
+         id="rect943-8-5"
+         style="opacity:1;vector-effect:none;fill:#364e59;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25052553;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-7-1"
+         y="187.8049"
+         x="-468.46344"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="187.8049"
+           x="-468.46344"
+           id="tspan990-4-1"
+           sodipodi:role="line">layer</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#364e59;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.46793169;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect943-8-9-0"
+       width="27.105616"
+       height="42.855717"
+       x="-474.75717"
+       y="195.75711"
+       ry="1.3229165"
+       rx="1.3229165"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-467.18396"
+       y="203.82115"
+       id="text992-7-9-1"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan990-4-5-18"
+         x="-467.18396"
+         y="203.82115"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">lod1</tspan></text>
+    <g
+       id="g1694-5"
+       transform="translate(-488.81534,-0.76004553)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="241.17809"
+         x="14.058161"
+         height="7.3709998"
+         width="27.105616"
+         id="rect943-8-9-3-7"
+         style="opacity:1;vector-effect:none;fill:#364e59;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.19406235;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-7-9-6-8"
+         y="246.78552"
+         x="21.622919"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="246.78552"
+           x="21.622919"
+           id="tspan990-4-5-1-5"
+           sodipodi:role="line">lod2</tspan></text>
+    </g>
+    <g
+       id="g4860"
+       transform="translate(0.73361384)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         ry="1.3229165"
+         y="180.19524"
+         x="-341.63138"
+         height="12.284227"
+         width="38.243999"
+         id="rect943-62-6"
+         style="opacity:1;vector-effect:none;fill:#005c94;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.29758018;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         rx="1.3229165" />
+      <text
+         id="text992-0-0"
+         y="188.26492"
+         x="-330.03906"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="188.26492"
+           x="-330.03906"
+           id="tspan990-6-9"
+           sodipodi:role="line">label</tspan></text>
+    </g>
+    <g
+       id="g1669-0"
+       transform="translate(-497.60899,170.96204)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="33.645092"
+         x="156.71121"
+         height="7.3705368"
+         width="38.24403"
+         id="rect943-9-49-0-3-8-1"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-9-0-9-3-4"
+         y="38.437378"
+         x="160.66731"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="38.437378"
+           x="160.66731"
+           id="tspan990-8-9-6-0-8-4"
+           sodipodi:role="line">natural_areas</tspan></text>
+    </g>
+    <g
+       id="g1674-3"
+       transform="translate(-497.60899,168.34408)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="45.113052"
+         x="156.71121"
+         height="7.3705368"
+         width="38.24403"
+         id="rect943-9-49-0-3-7-2"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-9-0-9-31-5"
+         y="50.06197"
+         x="170.13939"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="50.06197"
+           x="170.13939"
+           id="tspan990-8-9-6-0-0-1"
+           sodipodi:role="line">water</tspan></text>
+    </g>
+    <g
+       id="g1679-3"
+       transform="translate(-497.60899,167.36588)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="55.002026"
+         x="156.71121"
+         height="7.3705368"
+         width="38.24403"
+         id="rect943-9-49-0-3-0-2"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-9-0-9-5-6"
+         y="60.126629"
+         x="164.1958"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="60.126629"
+           x="164.1958"
+           id="tspan990-8-9-6-0-03-0"
+           sodipodi:role="line">functional</tspan></text>
+    </g>
+    <g
+       id="g1684-6"
+       transform="translate(-497.60899,166.83671)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="64.623734"
+         x="156.71121"
+         height="7.3705368"
+         width="38.24403"
+         id="rect943-9-49-0-3-1-9"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-9-0-9-8-6"
+         y="69.754684"
+         x="162.90886"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="69.754684"
+           x="162.90886"
+           id="tspan990-8-9-6-0-01-8"
+           sodipodi:role="line">residential</tspan></text>
+    </g>
+    <g
+       id="g4981"
+       transform="translate(0.73363085)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="240.4185"
+         x="-341.63141"
+         height="7.3705368"
+         width="38.24403"
+         id="rect943-9-49-0-3-1-4-0"
+         style="opacity:1;vector-effect:none;fill:#6f84c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-335.43588"
+         y="245.08803"
+         id="text992-2-9-0-9-8-28-8"><tspan
+           sodipodi:role="line"
+           id="tspan990-8-9-6-0-01-6-6"
+           x="-335.43588"
+           y="245.08803"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic';fill:#364e59;stroke-width:0.26458332">Source Type</tspan></text>
+    </g>
+    <g
+       id="g4850"
+       transform="translate(0.45751801)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         ry="1.3229165"
+         y="180.19524"
+         x="-414.24292"
+         height="12.284227"
+         width="34.842216"
+         id="rect943-3-4"
+         style="opacity:1;vector-effect:none;fill:#005c94;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.28403723;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         rx="1.3229165" />
+      <text
+         id="text992-6-5"
+         y="188.02222"
+         x="-404.25836"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="188.02222"
+           x="-404.25836"
+           id="tspan990-0-8"
+           sodipodi:role="line">water</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.22001439;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect943-9-49-3"
+       width="34.842243"
+       height="7.3705368"
+       x="-413.7854"
+       y="204.60712"
+       ry="1.3229165"
+       rx="1.3229165"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-410.29407"
+       y="209.23007"
+       id="text992-2-9-4"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan990-8-9-0"
+         x="-410.29407"
+         y="209.23007"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">water_course</tspan></text>
+    <g
+       id="g4945"
+       transform="translate(0.45755005)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="240.4185"
+         x="-414.24295"
+         height="7.3705368"
+         width="34.842243"
+         id="rect943-9-49-0-3-1-4-7-1"
+         style="opacity:1;vector-effect:none;fill:#bdcdd4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.22001439;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-399.07397"
+         y="245.41399"
+         id="text992-2-9-0-9-8-28-1-6-7"><tspan
+           sodipodi:role="line"
+           id="tspan990-8-9-6-0-01-6-2-9-7"
+           x="-399.07397"
+           y="245.41399"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic';fill:#364e59;stroke-width:0.26458332">NA</tspan></text>
+    </g>
+    <g
+       id="g4855"
+       transform="translate(0.70886714)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         ry="1.3229165"
+         y="180.19524"
+         x="-377.95596"
+         height="12.284227"
+         width="34.653233"
+         id="rect943-6-8"
+         style="opacity:1;vector-effect:none;fill:#005c94;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.28326586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         rx="1.3229165" />
+      <text
+         id="text992-1-9"
+         y="188.248"
+         x="-360.56161"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1052-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:center;letter-spacing:0.23018751px;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
+           y="188.248"
+           x="-360.44653"
+           sodipodi:role="line">water-line</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.21941689;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect943-9-49-0-0"
+       width="34.653255"
+       height="7.3705368"
+       x="-377.2471"
+       y="204.60713"
+       ry="0"
+       rx="1.3229165"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-373.85025"
+       y="209.23007"
+       id="text992-2-9-0-2"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan990-8-9-6-4"
+         x="-373.85025"
+         y="209.23007"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">water_course</tspan></text>
+    <g
+       id="g4950"
+       transform="translate(0.70883676)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="240.4185"
+         x="-377.95593"
+         height="7.3705368"
+         width="34.653255"
+         id="rect943-9-49-0-3-1-4-52-8"
+         style="opacity:1;vector-effect:none;fill:#bdcdd4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.21941689;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-362.88144"
+         y="245.41399"
+         id="text992-2-9-0-9-8-28-1-4-0"><tspan
+           sodipodi:role="line"
+           id="tspan990-8-9-6-0-01-6-2-8-6"
+           x="-362.88144"
+           y="245.41399"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic';fill:#364e59;stroke-width:0.26458332">NA</tspan></text>
+    </g>
+    <g
+       id="g4875"
+       transform="translate(-145.5207,105.07738)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#005c94;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.44008493;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect943-82-5-1"
+         width="83.642746"
+         height="12.284227"
+         x="-162.9875"
+         y="180.19524"
+         ry="1.3229165"
+         rx="1.3229165" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-128.62244"
+         y="188.2621"
+         id="text992-6-9-2"><tspan
+           sodipodi:role="line"
+           id="tspan990-0-4-2"
+           x="-128.62244"
+           y="188.2621"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">infra</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#6f84c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.18137223;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect943-9-44-7-1-1-4"
+       width="23.678026"
+       height="7.3705368"
+       x="-268.63733"
+       y="311.10004"
+       ry="1.3229165"
+       rx="1.3229165"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-264.97922"
+       y="315.89868"
+       id="text992-2-06-1-1-4-3"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan990-8-02-6-0-0-5"
+         x="-264.97922"
+         y="315.89868"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">highway</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#6f84c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.18137223;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect943-9-44-7-6-8-5"
+       width="23.678026"
+       height="7.3705368"
+       x="-268.63733"
+       y="319.32367"
+       ry="1.3229165"
+       rx="1.3229165"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-266.10318"
+       y="324.44193"
+       id="text992-2-06-1-4-3-9"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan990-8-02-6-1-3-3"
+         x="-266.10318"
+         y="324.44193"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">arterial</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#6f84c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.18137223;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect943-9-44-7-2-6-6"
+       width="23.678026"
+       height="7.3705368"
+       x="-268.63733"
+       y="327.75256"
+       ry="1.3229165"
+       rx="1.3229165"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-262.56198"
+       y="332.86658"
+       id="text992-2-06-1-5-1-2"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan990-8-02-6-2-5-5"
+         x="-262.56198"
+         y="332.86658"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">local</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#6f84c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.16711229;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect943-9-44-6-6-2"
+       width="20.101143"
+       height="7.3705368"
+       x="-308.50818"
+       y="311.10004"
+       ry="1.3229165"
+       rx="1.3229165"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-304.16626"
+       y="316.20981"
+       id="text992-2-06-6-7-0"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan990-8-02-4-5-0"
+         x="-304.16626"
+         y="316.20981"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">train</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#6f84c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.16711229;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect943-9-44-9-4-9"
+       width="20.101143"
+       height="7.3705368"
+       x="-308.50818"
+       y="319.32367"
+       ry="1.3229165"
+       rx="1.3229165"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-304.21707"
+       y="324.26837"
+       id="text992-2-06-8-3-8"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan990-8-02-0-0-0"
+         x="-304.21707"
+         y="324.26837"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">metro</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#6f84c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.16711229;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect943-9-44-90-2-6"
+       width="20.101143"
+       height="7.3705368"
+       x="-308.50818"
+       y="327.75256"
+       ry="1.3229165"
+       rx="1.3229165"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-303.05502"
+       y="332.70148"
+       id="text992-2-06-5-5-7"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan990-8-02-5-3-2"
+         x="-303.05502"
+         y="332.70148"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">tram</tspan></text>
+    <g
+       id="g5052"
+       transform="translate(-145.2289,70.886792)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         transform="matrix(0.65653275,0,0,1,-162.53697,210.97975)"
+         id="g1624-9-9-0-5-4">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#bdcdd4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.18691675;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect943-9-44-6-1-0-4"
+           width="25.147823"
+           height="7.3705368"
+           x="31.968702"
+           y="29.233513"
+           ry="1.3229165"
+           rx="2.0150046" />
+      </g>
+      <text
+         id="text992-2-9-0-9-8-28-1-2-5-8"
+         y="245.20876"
+         x="-135.54543"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic';fill:#364e59;stroke-width:0.26458332"
+           y="245.20876"
+           x="-135.54543"
+           id="tspan990-8-9-6-0-01-6-2-88-6-4"
+           sodipodi:role="line">NA</tspan></text>
+    </g>
+    <g
+       id="g5073"
+       transform="translate(-145.2182,70.886792)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         transform="matrix(0.73421705,0,0,1,-121.58319,210.97975)"
+         id="g1624-9-9-0-5-7-8">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#bdcdd4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.18691675;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect943-9-44-6-1-0-3-4"
+           width="25.147823"
+           height="7.3705368"
+           x="31.968702"
+           y="29.233513"
+           ry="1.3229165"
+           rx="1.8018059" />
+      </g>
+      <text
+         id="text992-2-9-0-9-8-28-1-2-5-4-4"
+         y="245.20876"
+         x="-91.131378"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic';fill:#364e59;stroke-width:0.26458332"
+           y="245.20876"
+           x="-91.131378"
+           id="tspan990-8-9-6-0-01-6-2-88-6-0-1"
+           sodipodi:role="line">NA</tspan></text>
+    </g>
+    <g
+       id="g4870"
+       transform="translate(-145.0397,105.07738)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="180.19524"
+         x="-232.61276"
+         height="12.284227"
+         width="67.448189"
+         id="rect943-82-2-3"
+         style="opacity:1;vector-effect:none;fill:#005c94;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.39519137;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-0-9-5"
+         y="188.23671"
+         x="-209.40004"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="188.23671"
+           x="-209.40004"
+           id="tspan990-6-6-4"
+           sodipodi:role="line">terrain</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#6f84c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.19670199;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect943-9-44-8-9-7-0"
+       width="27.849756"
+       height="7.3705368"
+       x="-338.05417"
+       y="311.10004"
+       ry="1.3229165"
+       rx="1.3229165"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-331.00635"
+       y="316.22675"
+       id="text992-2-06-0-5-0-1"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan990-8-02-1-3-8-7"
+         x="-331.00635"
+         y="316.22675"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">closed</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#6f84c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.19670199;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect943-9-44-8-9-9-9"
+       width="27.849756"
+       height="7.3705368"
+       x="-338.05417"
+       y="319.32367"
+       ry="1.3229165"
+       rx="1.3229165"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-328.64838"
+       y="323.67993"
+       id="text992-2-06-0-5-8-8"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan990-8-02-1-3-6-2"
+         x="-328.64838"
+         y="323.67993"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">open</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#6f84c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect943-9-44-7-1-7"
+       width="38.243999"
+       height="7.3705368"
+       x="-377.65247"
+       y="311.10004"
+       ry="1.3229165"
+       rx="1.3229165"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-376.04376"
+       y="315.89868"
+       id="text992-2-06-1-1-5"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan990-8-02-6-0-9"
+         x="-376.04376"
+         y="315.89868"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">high_vegetation</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#6f84c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect943-9-44-7-6-9"
+       width="38.243999"
+       height="7.3705368"
+       x="-377.65247"
+       y="319.32367"
+       ry="1.3229165"
+       rx="1.3229165"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-374.81186"
+       y="324.10962"
+       id="text992-2-06-1-4-9"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan990-8-02-6-1-7"
+         x="-374.81186"
+         y="324.10962"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">low_vegetation</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#6f84c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect943-9-44-7-2-7"
+       width="38.243999"
+       height="7.3705368"
+       x="-377.65247"
+       y="327.75256"
+       ry="1.3229165"
+       rx="1.3229165"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-371.35535"
+       y="332.53851"
+       id="text992-2-06-1-5-3"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan990-8-02-6-2-50"
+         x="-371.35535"
+         y="332.53851"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">agriculture</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#6f84c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect943-9-44-7-0-1"
+       width="38.243999"
+       height="7.3705368"
+       x="-377.65247"
+       y="336.18143"
+       ry="1.3229165"
+       rx="1.3229165"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-363.04953"
+       y="340.53769"
+       id="text992-2-06-1-15-9"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan990-8-02-6-06-4"
+         x="-363.04953"
+         y="340.53769"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">open</tspan></text>
+    <g
+       id="g4865"
+       transform="translate(-144.67893,105.07738)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="180.19524"
+         x="-301.79959"
+         height="12.284227"
+         width="67.12999"
+         id="rect943-82-6"
+         style="opacity:1;vector-effect:none;fill:#005c94;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.39425811;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-78-5"
+         y="188.26492"
+         x="-275.75583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="188.26492"
+           x="-275.75583"
+           id="tspan990-67-6"
+           sodipodi:role="line">urban</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#6f84c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect943-9-44-6-4"
+       width="38.243999"
+       height="7.3705368"
+       x="-446.47852"
+       y="311.10004"
+       ry="1.3229165"
+       rx="1.3229165"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-443.62521"
+       y="315.89868"
+       id="text992-2-06-6-3"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan990-8-02-4-6"
+         x="-443.62521"
+         y="315.89868"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">main_buildings</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#6f84c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect943-9-44-9-2"
+       width="38.243999"
+       height="7.3705368"
+       x="-446.47852"
+       y="319.32367"
+       ry="1.3229165"
+       rx="1.3229165"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-444.79996"
+       y="324.12231"
+       id="text992-2-06-8-2"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan990-8-02-0-7"
+         x="-444.79996"
+         y="324.12231"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">other_buildings</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#6f84c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect943-9-44-90-1"
+       width="38.243999"
+       height="7.3705368"
+       x="-446.47852"
+       y="327.75256"
+       ry="1.3229165"
+       rx="1.3229165"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-433.01437"
+       y="332.87082"
+       id="text992-2-06-5-8"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan990-8-02-5-5"
+         x="-433.01437"
+         y="332.87082"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">walls</tspan></text>
+    <g
+       id="g5001"
+       transform="translate(-144.7168,70.886802)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="240.21326"
+         x="-261.91443"
+         height="7.3705368"
+         width="27.28269"
+         id="rect943-9-44-6-1-3"
+         style="opacity:1;vector-effect:none;fill:#bdcdd4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1946891;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-9-0-9-8-28-1-2-0"
+         y="245.20874"
+         x="-250.52522"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic';fill:#364e59;stroke-width:0.26458332"
+           y="245.20874"
+           x="-250.52522"
+           id="tspan990-8-9-6-0-01-6-2-88-64"
+           sodipodi:role="line">NA</tspan></text>
+    </g>
+    <g
+       transform="translate(87.26049,68.971086)"
+       id="g1624-9-0-5-7">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect943-9-44-7-1-1"
+         width="38.243999"
+         height="7.3705368"
+         x="31.968702"
+         y="29.233513"
+         ry="1.3229165"
+         rx="1.3229165" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="42.909786"
+         y="34.032146"
+         id="text992-2-06-1-1-4"><tspan
+           sodipodi:role="line"
+           id="tspan990-8-02-6-0-0"
+           x="42.909786"
+           y="34.032146"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">highway</tspan></text>
+    </g>
+    <g
+       transform="translate(87.72022,77.399958)"
+       id="g1624-9-0-1-4">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect943-9-44-7-6-8"
+         width="38.243999"
+         height="7.3705368"
+         x="31.968702"
+         y="29.233513"
+         ry="1.3229165"
+         rx="1.3229165" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="41.785835"
+         y="34.351765"
+         id="text992-2-06-1-4-3"><tspan
+           sodipodi:role="line"
+           id="tspan990-8-02-6-1-3"
+           x="41.785835"
+           y="34.351765"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">arterial</tspan></text>
+    </g>
+    <g
+       transform="translate(87.72022,85.828815)"
+       id="g1624-9-0-2-4">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect943-9-44-7-2-6"
+         width="38.243999"
+         height="7.3705368"
+         x="31.968702"
+         y="29.233513"
+         ry="1.3229165"
+         rx="1.3229165" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="45.327019"
+         y="34.34753"
+         id="text992-2-06-1-5-1"><tspan
+           sodipodi:role="line"
+           id="tspan990-8-02-6-2-5"
+           x="45.327019"
+           y="34.34753"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">local</tspan></text>
+    </g>
+    <g
+       transform="translate(6.43199,68.971086)"
+       id="g1624-9-9-9">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect943-9-44-6-6"
+         width="38.243999"
+         height="7.3705368"
+         x="31.968702"
+         y="29.233513"
+         ry="1.3229165"
+         rx="1.3229165" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="45.382053"
+         y="34.343296"
+         id="text992-2-06-6-7"><tspan
+           sodipodi:role="line"
+           id="tspan990-8-02-4-5"
+           x="45.382053"
+           y="34.343296"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">train</tspan></text>
+    </g>
+    <g
+       transform="translate(6.43199,77.399958)"
+       id="g1624-9-1-6">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect943-9-44-9-4"
+         width="38.243999"
+         height="7.3705368"
+         x="31.968702"
+         y="29.233513"
+         ry="1.3229165"
+         rx="1.3229165" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="45.331253"
+         y="34.1782"
+         id="text992-2-06-8-3"><tspan
+           sodipodi:role="line"
+           id="tspan990-8-02-0-0"
+           x="45.331253"
+           y="34.1782"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">metro</tspan></text>
+    </g>
+    <g
+       transform="translate(6.43199,85.828815)"
+       id="g1624-9-4-0">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect943-9-44-90-2"
+         width="38.243999"
+         height="7.3705368"
+         x="31.968702"
+         y="29.233513"
+         ry="1.3229165"
+         rx="1.3229165" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="46.493301"
+         y="34.18243"
+         id="text992-2-06-5-5"><tspan
+           sodipodi:role="line"
+           id="tspan990-8-02-5-3"
+           x="46.493301"
+           y="34.18243"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">tram</tspan></text>
+    </g>
+    <g
+       transform="translate(14.925287,47.837867)"
+       id="g2541-8">
+      <g
+         id="g1624-9-9-0-5"
+         transform="matrix(1.5207678,0,0,1,15.272686,21.133218)">
+        <rect
+           rx="0.86990041"
+           ry="1.3229165"
+           y="29.233513"
+           x="31.968702"
+           height="7.3705368"
+           width="25.147823"
+           id="rect943-9-44-6-1-0"
+           style="opacity:1;vector-effect:none;fill:#bdcdd4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.18691675;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="80.759529"
+         y="55.362217"
+         id="text992-2-9-0-9-8-28-1-2-5"><tspan
+           sodipodi:role="line"
+           id="tspan990-8-9-6-0-01-6-2-88-6"
+           x="80.759529"
+           y="55.362217"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic';fill:#364e59;stroke-width:0.26458332">NA</tspan></text>
+    </g>
+    <g
+       transform="translate(95.63077,47.837869)"
+       id="g2541-8-6">
+      <g
+         id="g1624-9-9-0-5-7"
+         transform="matrix(1.5207678,0,0,1,15.272686,21.133218)">
+        <rect
+           rx="0.86990041"
+           ry="1.3229165"
+           y="29.233513"
+           x="31.968702"
+           height="7.3705368"
+           width="25.147823"
+           id="rect943-9-44-6-1-0-3"
+           style="opacity:1;vector-effect:none;fill:#bdcdd4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.18691675;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="80.759529"
+         y="55.362217"
+         id="text992-2-9-0-9-8-28-1-2-5-4"><tspan
+           sodipodi:role="line"
+           id="tspan990-8-9-6-0-01-6-2-88-6-0"
+           x="80.759529"
+           y="55.362217"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic';fill:#364e59;stroke-width:0.26458332">NA</tspan></text>
+    </g>
+    <g
+       id="g4940"
+       transform="translate(0.08050762,1.5258789e-5)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#bdcdd4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.20492174;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect943-9-49-0-3-1-4-5-0"
+         width="30.225952"
+         height="7.3705368"
+         x="-445.78793"
+         y="240.41849"
+         ry="1.3229165"
+         rx="1.3229165" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-432.92709"
+         y="245.41397"
+         id="text992-2-9-0-9-8-28-1-9"><tspan
+           sodipodi:role="line"
+           id="tspan990-8-9-6-0-01-6-2-6"
+           x="-432.92709"
+           y="245.41397"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic';fill:#364e59;stroke-width:0.26458332">NA</tspan></text>
+    </g>
+    <g
+       id="g4845"
+       transform="translate(0.08045247)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#005c94;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26455268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect943-4"
+         width="30.225929"
+         height="12.284227"
+         x="-445.78787"
+         y="180.19524"
+         ry="1.3229165"
+         rx="1.3229165" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-438.15381"
+         y="188.26492"
+         id="text992-4"><tspan
+           sodipodi:role="line"
+           id="tspan990-60"
+           x="-438.15381"
+           y="188.26492"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">admin</tspan></text>
+    </g>
+    <g
+       id="g1664-1"
+       transform="translate(-497.60899,169.48256)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="26.274553"
+         x="156.71121"
+         height="7.3705368"
+         width="38.24403"
+         id="rect943-9-49-0-3-2"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-9-0-9-4"
+         y="31.073189"
+         x="158.28395"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="31.073189"
+           x="158.28395"
+           id="tspan990-8-9-6-0-9"
+           sodipodi:role="line">building_number</tspan></text>
+    </g>
+    <g
+       id="g4925"
+       transform="translate(0.45753518)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="195.75711"
+         x="-414.24295"
+         height="7.3705368"
+         width="34.842243"
+         id="rect943-9-4-8"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.22001439;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-54-6"
+         y="200.55997"
+         x="-411.92636"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="200.55997"
+           x="-411.92636"
+           id="tspan990-8-2-8"
+           sodipodi:role="line">water_surface</tspan></text>
+    </g>
+    <g
+       id="g4920"
+       transform="translate(0.7088557)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="195.75711"
+         x="-377.95596"
+         height="7.3705368"
+         width="34.653255"
+         id="rect943-9-4-0-9"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.21941689;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-54-1-7"
+         y="200.55997"
+         x="-375.73386"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="200.55997"
+           x="-375.73386"
+           id="tspan990-8-2-2-2"
+           sodipodi:role="line">water_surface</tspan></text>
+    </g>
+    <g
+       id="g4895"
+       transform="translate(-145.33179,105.07738)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="195.75711"
+         x="-163.17641"
+         height="7.3705368"
+         width="20.101143"
+         id="rect943-9-44-78-7"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.16711229;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-06-09-9"
+         y="200.54305"
+         x="-161.36179"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="200.54305"
+           x="-161.36179"
+           id="tspan990-8-02-52-1"
+           sodipodi:role="line">railway</tspan></text>
+    </g>
+    <g
+       id="g4890"
+       transform="translate(-145.22946,105.07738)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="195.75711"
+         x="-141.54791"
+         height="7.3705368"
+         width="16.51037"
+         id="rect943-9-44-8-6-8"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1514525;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-06-0-1-6"
+         y="200.55362"
+         x="-139.067"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="200.55362"
+           x="-139.067"
+           id="tspan990-8-02-1-6-1"
+           sodipodi:role="line">ferry</tspan></text>
+    </g>
+    <g
+       id="g4885"
+       transform="translate(-144.71147,105.07738)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="195.75711"
+         x="-123.92585"
+         height="7.3705368"
+         width="23.678026"
+         id="rect943-9-44-7-9-5"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.18137223;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-06-1-19-2"
+         y="200.88382"
+         x="-117.90979"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="200.88382"
+           x="-117.90979"
+           id="tspan990-8-02-6-15-5"
+           sodipodi:role="line">roads</tspan></text>
+    </g>
+    <g
+       id="g4880"
+       transform="translate(-145.27779,105.07738)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.16016316;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect943-9-44-8-9-4-9"
+         width="18.464148"
+         height="7.3705368"
+         x="-98.051819"
+         y="195.75711"
+         ry="1.3229165"
+         rx="1.3229165" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-95.768761"
+         y="200.55574"
+         id="text992-2-06-0-5-9-3"><tspan
+           sodipodi:role="line"
+           id="tspan990-8-02-1-3-68-8"
+           x="-95.768761"
+           y="200.55574"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">flight</tspan></text>
+    </g>
+    <g
+       id="g4905"
+       transform="translate(-145.0397,105.07738)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="195.75711"
+         x="-232.61276"
+         height="7.3705368"
+         width="38.243999"
+         id="rect943-9-44-7-8"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-06-1-0"
+         y="200.87535"
+         x="-221.6611"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="200.87535"
+           x="-221.6611"
+           id="tspan990-8-02-6-9"
+           sodipodi:role="line">natural</tspan></text>
+    </g>
+    <g
+       id="g4900"
+       transform="translate(-145.13753,105.07738)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="195.75711"
+         x="-192.91678"
+         height="7.3705368"
+         width="27.850035"
+         id="rect943-9-44-8-9-6"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.19670296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-06-0-5-3"
+         y="200.88806"
+         x="-190.68211"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="200.88806"
+           x="-190.68211"
+           id="tspan990-8-02-1-3-89"
+           sodipodi:role="line">human-made</tspan></text>
+    </g>
+    <g
+       id="g4915"
+       transform="translate(-144.67893,105.07738)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="195.75711"
+         x="-301.79959"
+         height="7.3705368"
+         width="38.243999"
+         id="rect943-9-44-0"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-06-82"
+         y="200.55574"
+         x="-293.1424"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="200.55574"
+           x="-293.1424"
+           id="tspan990-8-02-9"
+           sodipodi:role="line">buildings</tspan></text>
+    </g>
+    <g
+       id="g4910"
+       transform="translate(-144.7168,105.07738)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="195.75711"
+         x="-261.91443"
+         height="7.3705368"
+         width="27.28269"
+         id="rect943-9-44-8-1"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1946891;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-06-0-3"
+         y="200.56209"
+         x="-259.90417"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="200.56209"
+           x="-259.90417"
+           id="tspan990-8-02-1-8"
+           sodipodi:role="line">urban_area</tspan></text>
+    </g>
+    <g
+       id="g4930"
+       transform="translate(0.08047154)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.20492174;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect943-9-5"
+         width="30.225952"
+         height="7.3705368"
+         x="-445.7879"
+         y="195.75711"
+         ry="1.3229165"
+         rx="1.3229165" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-438.81561"
+         y="200.3737"
+         id="text992-2-3"><tspan
+           sodipodi:role="line"
+           id="tspan990-8-91"
+           x="-438.81561"
+           y="200.3737"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">country</tspan></text>
+    </g>
+    <rect
+       rx="1.3229165"
+       ry="1.3229165"
+       y="204.60713"
+       x="-445.70743"
+       height="7.3705368"
+       width="30.225952"
+       id="rect943-9-0-0"
+       style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.20492174;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       id="text992-2-51-4"
+       y="209.39095"
+       x="-439.9353"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+         y="209.39095"
+         x="-439.9353"
+         id="tspan990-8-1-9"
+         sodipodi:role="line">province</tspan></text>
+    <rect
+       rx="1.3229165"
+       ry="1.3229165"
+       y="213.45714"
+       x="-445.70743"
+       height="7.3705368"
+       width="30.225952"
+       id="rect943-9-03-7"
+       style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.20492174;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       id="text992-2-0-4"
+       y="218.24307"
+       x="-444.57715"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+         y="218.24307"
+         x="-444.57715"
+         id="tspan990-8-0-3"
+         sodipodi:role="line">municipality</tspan></text>
+    <g
+       id="g1624-9-0"
+       transform="translate(87.260487,-3.7437227)">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="29.233513"
+         x="31.968702"
+         height="7.3705368"
+         width="38.243999"
+         id="rect943-9-44-7"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-06-1"
+         y="34.351765"
+         x="42.920368"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="34.351765"
+           x="42.920368"
+           id="tspan990-8-02-6"
+           sodipodi:role="line">natural</tspan></text>
+    </g>
+    <g
+       transform="translate(94.479685)"
+       id="g2281-4">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="25.48979"
+         x="65.163574"
+         height="7.3705368"
+         width="38.244381"
+         id="rect943-9-44-8-9"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050579;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-06-0-5"
+         y="30.620741"
+         x="72.595413"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="30.620741"
+           x="72.595413"
+           id="tspan990-8-02-1-3"
+           sodipodi:role="line">human-made</tspan></text>
+    </g>
+    <g
+       transform="translate(94.479685,10.589374)"
+       id="g2281-4-0">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="25.48979"
+         x="65.163574"
+         height="7.3705368"
+         width="38.243999"
+         id="rect943-9-44-8-9-7"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-06-0-5-0"
+         y="30.616508"
+         x="77.408524"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="30.616508"
+           x="77.408524"
+           id="tspan990-8-02-1-3-8"
+           sodipodi:role="line">closed</tspan></text>
+    </g>
+    <g
+       transform="translate(94.479685,19.018247)"
+       id="g2281-4-4">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="25.48979"
+         x="65.163574"
+         height="7.3705368"
+         width="38.243999"
+         id="rect943-9-44-8-9-9"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-06-0-5-8"
+         y="29.846041"
+         x="79.766487"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="29.846041"
+           x="79.766487"
+           id="tspan990-8-02-1-3-6"
+           sodipodi:role="line">open</tspan></text>
+    </g>
+    <g
+       id="g1624-9-0-5"
+       transform="translate(87.260487,6.845651)">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="29.233513"
+         x="31.968702"
+         height="7.3705368"
+         width="38.243999"
+         id="rect943-9-44-7-1"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-06-1-1"
+         y="34.032146"
+         x="33.577404"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="34.032146"
+           x="33.577404"
+           id="tspan990-8-02-6-0"
+           sodipodi:role="line">high_vegetation</tspan></text>
+    </g>
+    <g
+       id="g1624-9-0-1"
+       transform="translate(87.720225,15.274524)">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="29.233513"
+         x="31.968702"
+         height="7.3705368"
+         width="38.243999"
+         id="rect943-9-44-7-6"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-06-1-4"
+         y="34.019447"
+         x="34.809303"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="34.019447"
+           x="34.809303"
+           id="tspan990-8-02-6-1"
+           sodipodi:role="line">low_vegetation</tspan></text>
+    </g>
+    <g
+       id="g1624-9-0-2"
+       transform="translate(87.720225,23.703381)">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="29.233513"
+         x="31.968702"
+         height="7.3705368"
+         width="38.243999"
+         id="rect943-9-44-7-2"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-06-1-5"
+         y="34.019447"
+         x="38.26582"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="34.019447"
+           x="38.26582"
+           id="tspan990-8-02-6-2"
+           sodipodi:role="line">agriculture</tspan></text>
+    </g>
+    <g
+       id="g1624-9-0-9"
+       transform="translate(87.720225,32.13227)">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="29.233513"
+         x="31.968702"
+         height="7.3705368"
+         width="38.243999"
+         id="rect943-9-44-7-0"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-06-1-15"
+         y="33.589764"
+         x="46.571617"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="33.589764"
+           x="46.571617"
+           id="tspan990-8-02-6-06"
+           sodipodi:role="line">open</tspan></text>
+    </g>
+    <g
+       id="g1624-9-9"
+       transform="translate(6.4319886,6.845651)">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="29.233513"
+         x="31.968702"
+         height="7.3705368"
+         width="38.243999"
+         id="rect943-9-44-6"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-06-6"
+         y="34.032146"
+         x="34.822002"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="34.032146"
+           x="34.822002"
+           id="tspan990-8-02-4"
+           sodipodi:role="line">main_buildings</tspan></text>
+    </g>
+    <g
+       id="g1624-9-1"
+       transform="translate(6.4319886,15.274524)">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="29.233513"
+         x="31.968702"
+         height="7.3705368"
+         width="38.243999"
+         id="rect943-9-44-9"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-06-8"
+         y="34.032146"
+         x="33.647255"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="34.032146"
+           x="33.647255"
+           id="tspan990-8-02-0"
+           sodipodi:role="line">other_buildings</tspan></text>
+    </g>
+    <g
+       id="g1624-9-4"
+       transform="translate(6.4319886,23.703381)">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="29.233513"
+         x="31.968702"
+         height="7.3705368"
+         width="38.243999"
+         id="rect943-9-44-90"
+         style="opacity:1;vector-effect:none;fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23050465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-2-06-5"
+         y="34.351765"
+         x="45.432854"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="34.351765"
+           x="45.432854"
+           id="tspan990-8-02-5"
+           sodipodi:role="line">walls</tspan></text>
+    </g>
+    <g
+       id="g2541"
+       transform="translate(14.925286,-14.287567)">
+      <g
+         transform="matrix(1.5207678,0,0,1,15.272686,21.133218)"
+         id="g1624-9-9-0">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#bdcdd4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.18691675;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect943-9-44-6-1"
+           width="25.147823"
+           height="7.3705368"
+           x="31.968702"
+           y="29.233513"
+           ry="1.3229165"
+           rx="0.86990041" />
+      </g>
+      <text
+         id="text992-2-9-0-9-8-28-1-2"
+         y="55.362217"
+         x="80.759529"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic';fill:#364e59;stroke-width:0.26458332"
+           y="55.362217"
+           x="80.759529"
+           id="tspan990-8-9-6-0-01-6-2-88"
+           sodipodi:role="line">NA</tspan></text>
+    </g>
+    <g
+       id="g1614-5-8"
+       transform="translate(3.6177501,67.263915)">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="5.4210119"
+         x="0.020800833"
+         height="12.284227"
+         width="27.105616"
+         id="rect943-8-7-0"
+         style="opacity:1;vector-effect:none;fill:#b50000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25052553;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-7-4-8"
+         y="13.030682"
+         x="6.0664973"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="13.030682"
+           x="6.0664973"
+           id="tspan990-4-3-1"
+           sodipodi:role="line">layer</tspan></text>
+    </g>
+    <g
+       id="g4935-9"
+       transform="translate(-0.66252199,105.07738)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="180.19524"
+         x="-474.50912"
+         height="12.284227"
+         width="27.105616"
+         id="rect943-8-5-4"
+         style="opacity:1;vector-effect:none;fill:#364e59;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25052553;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-7-1-4"
+         y="187.8049"
+         x="-468.46344"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="187.8049"
+           x="-468.46344"
+           id="tspan990-4-1-6"
+           sodipodi:role="line">layer</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#364e59;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.19406237;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect943-8-9-0-8"
+       width="27.105616"
+       height="7.3709998"
+       x="-475.41974"
+       y="300.83426"
+       ry="1.3229165"
+       rx="1.3229165"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-467.84653"
+       y="306.60837"
+       id="text992-7-9-1-1"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan990-4-5-18-0"
+         x="-467.84653"
+         y="306.60837"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332">lod1</tspan></text>
+    <g
+       id="g1694-5-8"
+       transform="translate(-489.47787,69.536842)"
+       inkscape:export-filename="/home/niene/Documents/00_Projecten/vectortiles-bgt-brt/img/schema_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         rx="1.3229165"
+         ry="1.3229165"
+         y="241.56322"
+         x="14.058161"
+         height="32.37648"
+         width="27.105616"
+         id="rect943-8-9-3-7-1"
+         style="opacity:1;vector-effect:none;fill:#364e59;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.40671754;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text992-7-9-6-8-2"
+         y="247.17065"
+         x="21.622927"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0.23283331px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="247.17065"
+           x="21.622927"
+           id="tspan990-4-5-1-5-9"
+           sodipodi:role="line">lod2</tspan></text>
+    </g>
+  </g>
+</svg>
